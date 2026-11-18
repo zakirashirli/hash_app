@@ -51,10 +51,10 @@ Instead of storing every string in one large file, hash_app uses a hash function
 
 ## Development Status
 
-<b>Completed:</b> Initial README documentation and project requirements.
+<b>Completed:</b> README documentation, Java project setup, command-line argument validation, continuous input handling, and bucket file initialization.
 
-<b>Selected:</b> Java 21 as the programming language and MurmurHash3 as the hashing algorithm.
+<b>Selected:</b> Java 21 and MurmurHash3 as the hashing algorithm.
 
-<b>In progress:</b> Project setup in IntelliJ IDEA.
+<b>In progress:</b> Hash function integration and bucket file storage.
 
-<b>Not started:</b> Java implementation, bucket file storage, and overflow handling.
+<b>Not started:</b> Overflow handling and final testing.
