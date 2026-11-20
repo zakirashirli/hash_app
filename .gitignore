@@ -1,10 +1,10 @@
-# IntelliJ
 .idea/
 *.iml
-
-# Build outputs
 out/
-bin/
+*.class
 
 # Generated bucket files
-*.txt
+/[0-9]*.txt
+
+# Generated overflow references
+/[0-9]*.ref
